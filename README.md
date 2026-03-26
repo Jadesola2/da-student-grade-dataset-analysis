@@ -74,6 +74,3 @@ For future projects, I hope to make use of a neater framework like Seaborn.
 - LinkedIn - [Jadesola Ojo](https://www.linkedin.com/in/jadesola-ojo-862421346)
 
 
-
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
