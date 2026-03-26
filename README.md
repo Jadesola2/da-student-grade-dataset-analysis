@@ -22,7 +22,7 @@ This is a personal project I did to check the relationship between variuos data 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](output.png)
 
 
 
